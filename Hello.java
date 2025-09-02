@@ -1,7 +1,9 @@
 
 
 /**
- * Hello
+ * Program written by David Johnson.
+ * This is a long code with short results.
+ * This code is a modification of Hello World for Software and Programming development.
  */
 public class Hello {
 
@@ -44,4 +46,5 @@ public class Hello {
             System.out.print("My father is " + dad + ".");
             System.out.println(" He is " + dadage + " years old.");
         }
+
 }
