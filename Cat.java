@@ -1,3 +1,5 @@
+//Created by David Johnson for Software and Program development
+//This creates three cats and changes some of their attributes
 public class Cat {
     String name;
     String color;
