@@ -6,7 +6,7 @@ Variables and printing:
 -[Hello.java](Hello.java)
 
 Flow Control:
--[Flow Control.java](Flow Control.java)
+-[flowControl.java](flowControl.java)
 
 Arrays and arraylists:
 -[array.java](array.java)
@@ -25,7 +25,7 @@ To compile all files together
 
 ```bash
 # Compile Unit 1 & 2 files
-javac Hello.java FlowControl.java array.java bubbleSort.java Horse.java
+javac Hello.java flowControl.java array.java bubbleSort.java Horse.java
 
 # Compile RunUnit1&2Files from runUnit2 folder
 javac runUnit2/RunUnit1&2Files.java
